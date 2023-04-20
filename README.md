@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4CH4R34L5M00TH&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4CH4R34L5M00TH&show_icons=true&theme=tokyonight)
 
 <br/>  
 
