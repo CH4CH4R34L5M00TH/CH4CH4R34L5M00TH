@@ -74,7 +74,7 @@
 <br/>  
 
 
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4CH4R34L5M00TH)](https://github.com/CH4CH4R34L5M00TH/github-readme-stats)
 
 <br/>  
 
