@@ -69,12 +69,7 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CH4CH4R34L5M00TH=anuraghazra&show_icons=true&theme=gruvbox)
-
-<br/>  
-
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4CH4R34L5M00TH)](https://github.com/CH4CH4R34L5M00TH/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4CH4R34L5M00TH&show_icons=true&theme=gruvbox)
 
 <br/>  
 
