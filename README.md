@@ -24,6 +24,7 @@
 
 <br/>  
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CH4CH4R34L5M00TH)](https://github.com/CH4CH4R34L5M00TH/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -38,8 +39,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CH4CH4R34L5M00TH)](https://github.com/CH4CH4R34L5M00TH/github-readme-stats)
 
 ### Backend  
 <div align="center">  
